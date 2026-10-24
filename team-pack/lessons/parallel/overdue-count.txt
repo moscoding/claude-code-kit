@@ -1,0 +1,8 @@
+Сессия «Число просрочек в заголовке», ветка overdue-count.
+Команда: git diff --stat main...overdue-count
+
+ outputs/status.html       |  2 +-
+ scripts/build_status.py   |  9 ++++++---
+ scripts/report.py         | 14 ++++++++++++++
+ tests/test_report.py      | 22 ++++++++++++++++++++++
+ 4 files changed, 43 insertions(+), 4 deletions(-)

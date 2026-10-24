@@ -1,0 +1,10 @@
+{
+  "salt": "team-pack-v1",
+  "verdicts": {
+    "memo-1": "c1adc4c7ee151ff792c194c5e1e2d464012a2b8e2ddfb4572fdf16867c21c605",
+    "memo-2": "435670228b802cfccf5bf7bed44386ae7e7ce089c015b0ac4931f83c6c90f13e",
+    "memo-3": "c10f756664e02d2637e86135167dfebb1ba24955e783da3e62686dccd445bcc3",
+    "memo-4": "40174995c61bd96ff8d4f2c8b9a879d764d5ffefa8bd76211e5633ebee707a75",
+    "memo-5": "41b3f9e8fb0d758d99d4e5c277bcf1a462f56d4a3d18c49513d9ac03301d6a66"
+  }
+}

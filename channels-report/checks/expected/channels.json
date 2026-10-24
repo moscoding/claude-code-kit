@@ -1,0 +1,33 @@
+{
+  "inputs": {
+    "campaigns.csv": "date,source,campaign,channel,spend,clicks,leads,revenue,sessions,notes\n2026-05-01,yandex_direct,brand_search,search,6200,520,22,34000,710,брендовый спрос вырос\n2026-05-01,google_ads,retargeting,social,4800,410,17,24000,600,много дешёвых лидов\n2026-05-01,yandex_metrica,organic,organic,,180,6,0,980,аналитика без spend\n2026-05-02,yandex_direct,nonbrand_search,search,7300,610,25,39000,760,\n2026-05-02,google_ads,video_test,video,3600,390,9,12000,520,тестовый креатив\n2026-05-02,crm,partners,partners,2500,80,7,21000,90,проверить договор\n2026-05-03,email_platform,newsletter,email,900,210,8,10000,250,\n2026-05-03,ga4,unknown,unknown,,95,3,0,430,нет UTM\n2026-05-03,yandex_direct,competitors,search,4200,260,6,9000,300,дорогие клики\n2026-05-03,google_ads,social_scale,social,5200,500,20,31000,700,\n",
+    "period-test.csv": "row_id,date\nA,2026-04-30\nB,2026-05-01\nC,2026-05-03\nD,2026-05-04\n"
+  },
+  "channels": [
+    "email",
+    "organic",
+    "partners",
+    "search",
+    "social",
+    "unknown",
+    "video"
+  ],
+  "spend": 34700.0,
+  "revenue": 180000.0,
+  "cpl": {
+    "search": 333.96,
+    "social": 270.27,
+    "video": 400.0,
+    "partners": 357.14,
+    "email": 112.5
+  },
+  "no_spend": [
+    "organic",
+    "unknown"
+  ],
+  "period_probe": "date,source,campaign,channel,spend,clicks,leads,revenue,sessions,notes\n2026-04-30,probe,probe,before_start,100,10,1,100,10,\n2026-05-01,probe,probe,first_day,100,10,1,100,10,\n2026-05-03,probe,probe,last_day,100,10,1,100,10,\n2026-05-04,probe,probe,after_end,100,10,1,100,10,\n",
+  "period_inside": [
+    "first_day",
+    "last_day"
+  ]
+}

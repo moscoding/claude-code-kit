@@ -1,0 +1,26 @@
+date,source,campaign,channel,spend,clicks,leads,revenue,sessions,notes
+2026-05-04,yandex_direct,brand_search,search,6100,500,21,33000,690,
+2026-05-05,google_ads,retargeting,social,4700,400,16,23000,590,
+2026-05-06,yandex_metrica,organic,organic,,190,7,0,1010,аналитика без spend
+2026-05-07,yandex_direct,nonbrand_search,Search,7200,600,24,38000,750,
+2026-05-08,email_platform,newsletter,email,900,220,9,11000,260,
+2026-05-09,crm,partners,partners,2500,90,7,21000,95,
+2026-05-10,google_ads,social_scale,Social,5300,510,21,32000,710,воскресенье
+2026-05-10,yandex_direct,competitors,SEARCH,4100,250,6,9000,290,воскресенье
+2026-05-11,yandex_direct,brand_search,search,6300,530,23,35000,720,
+2026-05-12,google_ads,video_test,video,3500,380,8,11000,510,тестовый креатив
+2026-05-12,google_ads,retargeting,social,4900,420,18,25000,610,
+2026-05-13,ga4,unknown,unknown,,100,4,0,440,нет UTM
+2026-05-14,yandex_direct,nonbrand_search,search,7400,620,26,40000,770,
+2026-05-15,google_ads,social_scale,social,,480,19,30000,690,расход не выгружен
+2026-05-16,email_platform,newsletter,Email,950,230,9,12000,270,
+2026-05-17,yandex_metrica,organic,organic,,200,8,0,1050,воскресенье
+2026-05-17,yandex_direct,competitors,Search,4300,270,7,9500,310,воскресенье
+2026-05-18,yandex_direct,brand_search,Search,6000,490,20,32000,680,
+2026-05-19,google_ads,retargeting,social,5000,430,17,24000,620,
+2026-05-20,crm,partners,partners,2600,95,8,23000,100,
+2026-05-21,yandex_direct,nonbrand_search,search,7100,590,23,37000,740,
+2026-05-22,email_platform,newsletter,email,880,210,8,10000,250,
+2026-05-23,ga4,unknown,unknown,,90,3,0,420,нет UTM
+2026-05-24,google_ads,social_scale,SOCIAL,5400,520,22,33000,720,воскресенье
+2026-05-24,google_ads,video_test,video,3700,400,9,12500,530,воскресенье

@@ -1,0 +1,17 @@
+[
+  {
+    "type": "message",
+    "user": "U01BBB",
+    "text": "Ретро второй недели переносим",
+    "ts": "1791795600.000100",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01AAA"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

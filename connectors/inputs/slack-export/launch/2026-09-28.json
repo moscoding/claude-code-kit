@@ -1,0 +1,32 @@
+[
+  {
+    "type": "message",
+    "user": "U01BBB",
+    "text": "Метки каналов приводим к нижнему регистру, отчёт пересобран",
+    "ts": "1790584800.000100",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01AAA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "user": "U01CCC",
+    "text": "Кто посмотрит текст первого экрана?",
+    "ts": "1790593320.000100",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U01DDD"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

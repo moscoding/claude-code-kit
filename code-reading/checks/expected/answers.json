@@ -1,0 +1,6 @@
+{
+  "A": {"file": "send_summary.py", "risk": "сеть"},
+  "B": {"file": "cleanup.py", "risk": "удаление"},
+  "C": {"file": "report_xlsx.py", "risk": "установка"},
+  "D": {"file": "notify_team.py", "risk": "секрет"}
+}

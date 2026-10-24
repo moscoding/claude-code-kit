@@ -1,0 +1,25 @@
+Файлы, которые лежат в Git, та же копия launch-kit.
+Команда: git ls-files
+
+.claude/agents/status-reviewer.md
+.claude/settings.json
+.claude/skills/weekly-status/SKILL.md
+.claude/skills/weekly-status/scripts/check_status.py
+.github/workflows/checks.yml
+.gitignore
+CLAUDE.md
+README.md
+brief-client.md
+inputs/notes.md
+inputs/risks.md
+inputs/tasks.csv
+method.md
+outputs/status.html
+outputs/update.html
+outputs/update.md
+scripts/build_status.py
+scripts/report.py
+tests/__init__.py
+tests/test_report.py
+work/acceptance.md
+work/handoff-issue-9.md

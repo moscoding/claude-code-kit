@@ -1,0 +1,11 @@
+item,kind,first_year_usd,renewal_usd,note,source_url,checked_at
+GitHub Pages,hosting,0,0,на тарифе Free — только открытый репозиторий,https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits,2026-10-10
+Vercel Hobby,hosting,0,0,только личное некоммерческое использование,https://vercel.com/docs/plans/hobby,2026-10-10
+"Tilda Personal, оплата за год",subscription,120,120,10 $ в месяц × 12,https://tilda.cc/pricing/,2026-10-10
+"Tilda Personal, помесячно",subscription,180,180,15 $ в месяц × 12,https://tilda.cc/pricing/,2026-10-10
+Домен .com,domain,11.08,11.08,,https://porkbun.com/products/domains,2026-10-10
+Домен .dev,domain,8.75,12.87,первый год по акции,https://porkbun.com/products/domains,2026-10-10
+Домен .site,domain,1.96,28.84,первый год по акции,https://porkbun.com/products/domains,2026-10-10
+Домен .xyz,domain,2.04,14.21,первый год по акции,https://porkbun.com/products/domains,2026-10-10
+Домен .me,domain,17.27,17.27,,https://porkbun.com/products/domains,2026-10-10
+Домен .io,domain,28.12,51.80,первый год по акции,https://porkbun.com/products/domains,2026-10-10

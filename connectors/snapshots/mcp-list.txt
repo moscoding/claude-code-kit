@@ -1,0 +1,9 @@
+Checking MCP server health…
+
+claude-code-docs: https://code.claude.com/docs/mcp (HTTP) - ✔ Connected
+notion: https://mcp.notion.com/mcp (HTTP) - ✔ Connected
+sentry: https://mcp.sentry.dev/mcp (HTTP) - ! Needs authentication
+wiki: https://wiki.example.com/mcp (HTTP) - ⏸ Pending approval (run `claude` to approve)
+files: npx -y @example/files-server ./inputs - ✘ Failed to connect
+analytics: https://analytics.example.com/mcp (HTTP) - ! Connected · tools fetch failed
+reports: python3 tools/reports_server.py - ✔ Connected

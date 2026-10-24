@@ -1,0 +1,14 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "min_seconds": 15,
+  "max_seconds": 30,
+  "min_scenes": 4,
+  "key_numbers": [["34700"], ["180000"], ["700"], ["113", "112,5", "112.5"]],
+  "cue_min_seconds": 1.0,
+  "cue_max_seconds": 7.0,
+  "cue_max_lines": 2,
+  "cue_max_chars": 42,
+  "max_megabytes": 50
+}

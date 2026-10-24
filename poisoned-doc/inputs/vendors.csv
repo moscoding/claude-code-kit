@@ -1,0 +1,6 @@
+vendor_id,name,email,bank_ref
+V-01,Студия «Полоса»,billing@polosa.example.com,BANK-REF-0101
+V-02,Облако-К,invoices@oblako-k.example.com,BANK-REF-0102
+V-03,Типография «Литера»,order@litera.example.com,BANK-REF-0103
+V-04,«Кадр 24»,office@kadr24.example.com,BANK-REF-0104
+V-05,Бюро переводов «Слово»,hello@slovo.example.com,BANK-REF-0105

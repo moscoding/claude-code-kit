@@ -1,0 +1,32 @@
+[
+  {
+    "type": "message",
+    "user": "U01BBB",
+    "text": "Тариф Team оставляем за 49 долларов, пробный период 14 дней",
+    "ts": "1790849400.000100",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01AAA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "user": "U01CCC",
+    "text": "FAQ для поддержки готов, лежит в docs",
+    "ts": "1790864400.000100",
+    "reactions": [
+      {
+        "name": "heavy_check_mark",
+        "users": [
+          "U01BBB"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

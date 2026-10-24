@@ -1,0 +1,46 @@
+[
+  {
+    "id": "U01AAA",
+    "name": "lead",
+    "real_name": "Руководитель",
+    "deleted": false,
+    "is_bot": false,
+    "profile": {
+      "real_name": "Руководитель",
+      "display_name": "lead"
+    }
+  },
+  {
+    "id": "U01BBB",
+    "name": "nikita",
+    "real_name": "Никита",
+    "deleted": false,
+    "is_bot": false,
+    "profile": {
+      "real_name": "Никита",
+      "display_name": "nikita"
+    }
+  },
+  {
+    "id": "U01CCC",
+    "name": "olya",
+    "real_name": "Оля",
+    "deleted": false,
+    "is_bot": false,
+    "profile": {
+      "real_name": "Оля",
+      "display_name": "olya"
+    }
+  },
+  {
+    "id": "U01DDD",
+    "name": "marina",
+    "real_name": "Марина",
+    "deleted": false,
+    "is_bot": false,
+    "profile": {
+      "real_name": "Марина",
+      "display_name": "marina"
+    }
+  }
+]

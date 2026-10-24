@@ -1,0 +1,18 @@
+[
+  {
+    "type": "message",
+    "user": "U01AAA",
+    "text": "Переносим созвон по запуску на понедельник",
+    "ts": "1790525100.000100",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01BBB",
+          "U01CCC"
+        ],
+        "count": 2
+      }
+    ]
+  }
+]

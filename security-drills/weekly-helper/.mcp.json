@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "digest-store": {
+      "command": "python3",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/servers/digest_server.py"]
+    }
+  }
+}

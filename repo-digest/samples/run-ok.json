@@ -1,0 +1,43 @@
+{
+  "type": "result",
+  "subtype": "success",
+  "is_error": false,
+  "duration_ms": 48213,
+  "duration_api_ms": 41877,
+  "num_turns": 7,
+  "result": "Готово: digest/2026-05-14.md, четыре раздела, числа сверены с git log и inputs/issues.json.",
+  "stop_reason": "end_turn",
+  "terminal_reason": "completed",
+  "session_id": "00000000-0000-4000-8000-000000000001",
+  "total_cost_usd": 0.1874,
+  "usage": {
+    "input_tokens": 5120,
+    "output_tokens": 2380,
+    "cache_creation_input_tokens": 21544,
+    "cache_read_input_tokens": 118702
+  },
+  "modelUsage": {
+    "claude-sonnet-5-5": {
+      "inputTokens": 4810,
+      "outputTokens": 2296,
+      "cacheReadInputTokens": 118702,
+      "cacheCreationInputTokens": 21544,
+      "webSearchRequests": 0,
+      "costUSD": 0.1801,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 64000
+    },
+    "claude-haiku-5-5": {
+      "inputTokens": 310,
+      "outputTokens": 84,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 0,
+      "webSearchRequests": 0,
+      "costUSD": 0.0073,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 64000
+    }
+  },
+  "permission_denials": [],
+  "uuid": "00000000-0000-4000-8000-000000000002"
+}

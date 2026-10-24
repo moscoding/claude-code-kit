@@ -1,0 +1,23 @@
+launch-tools 1.2.0
+  Description: Status page checks, release notes and review for launch-kit
+  Source: launch-tools@moscoding-launch
+
+Component inventory
+  Skills (3)  changelog-draft, release-notes, status-check
+  Agents (1)  status-reviewer
+  Hooks (1)  PostToolUse  (harness-only — no model context cost)
+  MCP servers (0)
+  LSP servers (0)
+
+Projected token cost
+  Always-on:   ~188 tok   added to every session
+
+Per-component (rounded)
+  component        always-on  on-invoke
+  release-notes          ~56       ~420
+  status-check           ~52        ~90
+  status-reviewer        ~42       ~160
+  changelog-draft        ~38       ~210
+
+  On-invoke cost is paid each time a skill or agent fires.
+  Token counts are estimates and may differ from actual usage.

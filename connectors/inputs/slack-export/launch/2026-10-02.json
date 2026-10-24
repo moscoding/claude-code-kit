@@ -1,0 +1,31 @@
+[
+  {
+    "type": "message",
+    "user": "U01DDD",
+    "text": "Персональные данные клиентов в launch-kit не храним, только мок-данные",
+    "ts": "1790928300.000100",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U01BBB"
+        ],
+        "count": 1
+      },
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01AAA",
+          "U01CCC"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "user": "U01BBB",
+    "text": "<@U01AAA>, нужен апрув на A/B-тест первого экрана",
+    "ts": "1790944200.000100"
+  }
+]

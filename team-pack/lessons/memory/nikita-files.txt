@@ -1,0 +1,39 @@
+Файлы инструкций Claude Code на компьютере Никиты (учебный пример).
+Проект лежит в ~/Desktop/launch-kit. Для каждого файла показаны первые строки.
+
+~/.claude/CLAUDE.md
+    # Мои правила
+    - Объясняй подробно, сложное — таблицей.
+
+~/Desktop/CLAUDE.md
+    # Заметки для папки Desktop
+    - Скриншоты складывай в ~/Desktop/shots.
+
+~/Desktop/launch-kit/CLAUDE.md
+    # launch-kit — пульт запуска лендинга
+    ## Карта папки
+    - inputs/ — исходные материалы: только читать, не менять.
+
+~/Desktop/launch-kit/CLAUDE.local.md
+    # Личное (Никита)
+    - Перед правкой скрипта показывай план из трёх пунктов.
+
+~/Desktop/launch-kit/.claude/rules/git.md
+    # Ветки
+    - Каждую задачу начинай в новой ветке от main.
+
+~/Desktop/launch-kit/.claude/rules/client-texts.md
+    ---
+    paths:
+      - "outputs/**"
+    ---
+    # Тексты для клиента
+    - Сроки результата не обещать без пометки «на проверке у юриста».
+
+~/Desktop/launch-kit/scripts/CLAUDE.md
+    # Правила для скриптов
+    - Только стандартная библиотека Python.
+
+~/Desktop/launch-kit/archive/README.md
+    # Архив
+    - Старые версии страницы статуса.

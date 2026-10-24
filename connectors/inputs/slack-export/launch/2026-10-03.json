@@ -1,0 +1,17 @@
+[
+  {
+    "type": "message",
+    "user": "U01AAA",
+    "text": "A/B-тест первого экрана запускаем в понедельник, отвечает <@U01BBB>",
+    "ts": "1791021000.000100",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01BBB"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

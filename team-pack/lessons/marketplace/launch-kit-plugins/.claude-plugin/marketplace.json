@@ -1,0 +1,17 @@
+{
+  "name": "launch-tools",
+  "description": "Плагины учебной команды launch-kit",
+  "owner": { "name": "Оля" },
+  "plugins": [
+    {
+      "name": "launch-status",
+      "source": "./plugins/launch-status",
+      "description": "Еженедельное обновление страницы статуса"
+    },
+    {
+      "name": "launch-legal",
+      "source": "./plugins/launch-legal",
+      "description": "Проверка текстов для клиента по правилам юриста"
+    }
+  ]
+}

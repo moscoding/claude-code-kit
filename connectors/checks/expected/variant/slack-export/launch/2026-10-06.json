@@ -1,0 +1,19 @@
+[
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "bot_id": "B01DEPLOY",
+    "username": "deploy-bot",
+    "text": "Деплой launch-kit 1.5 прошёл",
+    "ts": "1791277200.000300",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01BBB"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "name": "weekly-helper",
+  "version": "1.2.0",
+  "description": "Помощник для недельных отчётов: дайджест изменений и экспорт в CSV",
+  "author": { "name": "Weekly Tools" },
+  "homepage": "https://weekly-helper.example.com"
+}

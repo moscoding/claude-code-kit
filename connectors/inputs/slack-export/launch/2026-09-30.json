@@ -1,0 +1,55 @@
+[
+  {
+    "type": "message",
+    "user": "U01CCC",
+    "text": "Заголовок первого экрана: «Отчёт для клиента за 10 минут»",
+    "ts": "1790759700.000100",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01AAA",
+          "U01BBB"
+        ],
+        "count": 2
+      }
+    ],
+    "edited": {
+      "user": "U01CCC",
+      "ts": "1790761200.000100"
+    }
+  },
+  {
+    "type": "message",
+    "subtype": "message_changed",
+    "hidden": true,
+    "message": {
+      "type": "message",
+      "user": "U01CCC",
+      "text": "Заголовок первого экрана: «Отчёт для клиента за 10 минут»",
+      "edited": {
+        "user": "U01CCC",
+        "ts": "1790761200.000100"
+      },
+      "ts": "1790759700.000100",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "U01AAA",
+            "U01BBB"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    "previous_message": {
+      "type": "message",
+      "user": "U01CCC",
+      "text": "Заголовок первого экрана: «Отчёт за 10 минут»",
+      "ts": "1790759700.000100"
+    },
+    "event_ts": "1790761200.000500",
+    "ts": "1790761200.000500"
+  }
+]

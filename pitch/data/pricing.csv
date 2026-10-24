@@ -1,0 +1,4 @@
+plan,price_per_operator_month_rub,bot_resolutions_included_month,extra_resolution_rub,channels
+Старт,1900,1000,9,"чат на сайте, почта"
+Команда,3400,10000,7,"чат на сайте, почта, Telegram, WhatsApp"
+Бизнес,по запросу,по запросу,по запросу,"все каналы, вход через SSO, выделенный менеджер"

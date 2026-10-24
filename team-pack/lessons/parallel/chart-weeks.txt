@@ -1,0 +1,8 @@
+Сессия «График по неделям», ветка chart-weeks.
+Команда: git diff --stat main...chart-weeks
+
+ outputs/status.html       | 38 ++++++++++++++++++++++++++++++++
+ scripts/build_status.py   | 21 ++++++++++++++----
+ scripts/chart.py          | 64 ++++++++++++++++++++++++++++++++++++++++++++
+ tests/test_chart.py       | 41 ++++++++++++++++++++++++++++
+ 4 files changed, 160 insertions(+), 4 deletions(-)

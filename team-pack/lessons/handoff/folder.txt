@@ -1,0 +1,28 @@
+Все файлы в папке launch-kit (кроме .git), учебная копия.
+Команда: find . -path ./.git -prune -o -type f -print | sort
+
+./.claude/agents/status-reviewer.md
+./.claude/settings.json
+./.claude/settings.local.json
+./.claude/skills/weekly-status/SKILL.md
+./.claude/skills/weekly-status/scripts/check_status.py
+./.claude/worktrees/chart-weeks/README.md
+./.github/workflows/checks.yml
+./.gitignore
+./CLAUDE.local.md
+./CLAUDE.md
+./README.md
+./brief-client.md
+./inputs/notes.md
+./inputs/risks.md
+./inputs/tasks.csv
+./method.md
+./outputs/status.html
+./outputs/update.html
+./outputs/update.md
+./scripts/build_status.py
+./scripts/report.py
+./tests/__init__.py
+./tests/test_report.py
+./work/acceptance.md
+./work/handoff-issue-9.md

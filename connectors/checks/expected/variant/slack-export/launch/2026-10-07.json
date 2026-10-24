@@ -1,0 +1,17 @@
+[
+  {
+    "type": "message",
+    "user": "U01EEE",
+    "text": "Ответственная за иконки первого экрана — <@U01CCC>",
+    "ts": "1791370800.000100",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01AAA"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

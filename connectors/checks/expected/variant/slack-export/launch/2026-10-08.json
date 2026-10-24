@@ -1,0 +1,33 @@
+[
+  {
+    "type": "message",
+    "user": "U01BBB",
+    "text": "Отчёт за неделю пересобран",
+    "ts": "1791450000.000100",
+    "reactions": [
+      {
+        "name": "heavy_check_mark",
+        "users": [
+          "U01AAA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "user": "U01DDD",
+    "text": "Публичную ссылку на дашборд не включаем",
+    "ts": "1791460800.000100",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01AAA",
+          "U01BBB"
+        ],
+        "count": 2
+      }
+    ]
+  }
+]

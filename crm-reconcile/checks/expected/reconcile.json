@@ -1,0 +1,76 @@
+{
+  "sept_rows": 120,
+  "oct_rows": 130,
+  "oct_unique": 128,
+  "duplicates": 2,
+  "matched": 114,
+  "missing": 6,
+  "new": 14,
+  "status_changed": 23,
+  "sum_amount_sept": 1384738.5,
+  "sum_amount_oct_unique": 1590183.5,
+  "ids": {
+    "missing": [
+      "L-0009",
+      "L-0023",
+      "L-0041",
+      "L-0066",
+      "L-0088",
+      "L-0104"
+    ],
+    "new": [
+      "L-0121",
+      "L-0122",
+      "L-0123",
+      "L-0124",
+      "L-0125",
+      "L-0126",
+      "L-0127",
+      "L-0128",
+      "L-0129",
+      "L-0130",
+      "L-0131",
+      "L-0132",
+      "L-0133",
+      "L-0134"
+    ],
+    "status_changed": [
+      "L-0003",
+      "L-0007",
+      "L-0012",
+      "L-0015",
+      "L-0019",
+      "L-0026",
+      "L-0031",
+      "L-0034",
+      "L-0038",
+      "L-0044",
+      "L-0047",
+      "L-0052",
+      "L-0058",
+      "L-0061",
+      "L-0069",
+      "L-0073",
+      "L-0077",
+      "L-0081",
+      "L-0090",
+      "L-0095",
+      "L-0099",
+      "L-0108",
+      "L-0115"
+    ],
+    "duplicates": [
+      "L-0044",
+      "L-0131"
+    ]
+  },
+  "traps": {
+    "status_changed_without_normalization": 26,
+    "sum_amount_oct_skipping_text": 1525328.5,
+    "sum_amount_oct_with_duplicates": 1624983.5
+  },
+  "sha256": {
+    "crm-leads-sept.csv": "a97343f54a1ef5683e0120cccabfb32e90626857b0a3b136424d9c3d7722548e",
+    "crm-leads-oct.xlsx": "983c69dfa193fff499994f768796ece71383bcd0132e489d4a8792647ae9463d"
+  }
+}

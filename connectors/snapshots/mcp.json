@@ -1,0 +1,26 @@
+{
+  "mcpServers": {
+    "wiki": {
+      "type": "http",
+      "url": "https://wiki.example.com/mcp",
+      "headers": { "Authorization": "Bearer ${WIKI_KEY}" }
+    },
+    "files": {
+      "command": "npx",
+      "args": ["-y", "@example/files-server", "./inputs"]
+    },
+    "notion": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
+    },
+    "reports": {
+      "command": "python3",
+      "args": ["tools/reports_server.py"],
+      "env": { "REPORTS_DIR": "./outputs" }
+    },
+    "sentry": {
+      "type": "http",
+      "url": "https://mcp.sentry.dev/mcp"
+    }
+  }
+}

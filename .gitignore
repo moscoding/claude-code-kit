@@ -1,0 +1,12 @@
+# Логи и песочницы приёмки (tools/accept_*.py) держим вне репозитория
+/acceptance/
+
+# Служебные файлы Python и системы
+__pycache__/
+*.pyc
+.DS_Store
+
+# Генератор картинок portfolio: зависимости и промежуточные рендеры
+/tools/portfolio_art/node_modules/
+/tools/portfolio_art/out/
+/tools/portfolio_art/.venv/

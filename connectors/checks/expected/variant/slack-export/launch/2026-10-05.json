@@ -1,0 +1,18 @@
+[
+  {
+    "type": "message",
+    "user": "U01AAA",
+    "text": "Утверждаем роадмап на октябрь",
+    "ts": "1791187200.000100",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01BBB",
+          "U01CCC"
+        ],
+        "count": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+Tools for wiki
+7 tools
+
+search_pages  read-only
+read_page  read-only
+list_pages  read-only
+list_comments  read-only
+create_page
+update_page
+delete_page  destructive
+
+↑↓ navigate · Enter select · Esc back

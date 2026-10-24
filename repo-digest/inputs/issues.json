@@ -1,0 +1,206 @@
+[
+  {
+    "number": 1,
+    "title": "Собрать список задач запуска",
+    "state": "CLOSED",
+    "labels": [],
+    "assignees": [
+      {
+        "login": "nikita"
+      }
+    ],
+    "createdAt": "2026-04-28T10:00:00Z"
+  },
+  {
+    "number": 2,
+    "title": "Показать дату обновления на странице статуса",
+    "state": "OPEN",
+    "labels": [
+      {
+        "name": "enhancement"
+      }
+    ],
+    "assignees": [
+      {
+        "login": "olya"
+      }
+    ],
+    "createdAt": "2026-04-29T09:30:00Z"
+  },
+  {
+    "number": 3,
+    "title": "Показать число задач в заголовке блока «Блокеры и просрочки»",
+    "state": "OPEN",
+    "labels": [
+      {
+        "name": "enhancement"
+      }
+    ],
+    "assignees": [
+      {
+        "login": "nikita"
+      }
+    ],
+    "createdAt": "2026-04-29T09:40:00Z"
+  },
+  {
+    "number": 4,
+    "title": "Описать в README, как пересобрать страницу",
+    "state": "OPEN",
+    "labels": [
+      {
+        "name": "docs"
+      }
+    ],
+    "assignees": [
+      {
+        "login": "olya"
+      }
+    ],
+    "createdAt": "2026-04-30T12:00:00Z"
+  },
+  {
+    "number": 5,
+    "title": "Выгрузка каналов за апрель",
+    "state": "CLOSED",
+    "labels": [],
+    "assignees": [],
+    "createdAt": "2026-04-30T15:00:00Z"
+  },
+  {
+    "number": 9,
+    "title": "Отчёт делит один канал на два из-за регистра",
+    "state": "CLOSED",
+    "labels": [
+      {
+        "name": "bug"
+      }
+    ],
+    "assignees": [
+      {
+        "login": "nikita"
+      }
+    ],
+    "createdAt": "2026-05-06T08:20:00Z"
+  },
+  {
+    "number": 11,
+    "title": "CPL делится на ноль у канала без лидов",
+    "state": "OPEN",
+    "labels": [
+      {
+        "name": "bug"
+      }
+    ],
+    "assignees": [
+      {
+        "login": "nikita"
+      }
+    ],
+    "createdAt": "2026-05-07T10:15:00Z"
+  },
+  {
+    "number": 12,
+    "title": "Согласовать юридические формулировки подвала",
+    "state": "OPEN",
+    "labels": [],
+    "assignees": [
+      {
+        "login": "marina"
+      }
+    ],
+    "createdAt": "2026-05-01T11:00:00Z"
+  },
+  {
+    "number": 13,
+    "title": "Иконки каналов в легенде графика",
+    "state": "OPEN",
+    "labels": [
+      {
+        "name": "design"
+      }
+    ],
+    "assignees": [
+      {
+        "login": "anya"
+      }
+    ],
+    "createdAt": "2026-05-08T09:00:00Z"
+  },
+  {
+    "number": 14,
+    "title": "Дата в подвале показывает вчерашний день",
+    "state": "OPEN",
+    "labels": [
+      {
+        "name": "bug"
+      }
+    ],
+    "assignees": [
+      {
+        "login": "olya"
+      }
+    ],
+    "createdAt": "2026-05-11T16:40:00Z"
+  },
+  {
+    "number": 15,
+    "title": "Перевести подписи осей графика",
+    "state": "OPEN",
+    "labels": [],
+    "assignees": [],
+    "createdAt": "2026-05-04T13:00:00Z"
+  },
+  {
+    "number": 16,
+    "title": "Блок тарифов на первом экране",
+    "state": "OPEN",
+    "labels": [
+      {
+        "name": "design"
+      }
+    ],
+    "assignees": [
+      {
+        "login": "anya"
+      }
+    ],
+    "createdAt": "2026-05-09T10:30:00Z"
+  },
+  {
+    "number": 17,
+    "title": "Чеклист перед запуском 20 мая",
+    "state": "OPEN",
+    "labels": [],
+    "assignees": [
+      {
+        "login": "nikita"
+      }
+    ],
+    "createdAt": "2026-05-10T18:00:00Z"
+  },
+  {
+    "number": 18,
+    "title": "Страница статуса не открывается на телефоне",
+    "state": "OPEN",
+    "labels": [
+      {
+        "name": "bug"
+      }
+    ],
+    "assignees": [
+      {
+        "login": "anya"
+      }
+    ],
+    "createdAt": "2026-05-13T07:45:00Z"
+  },
+  {
+    "number": 19,
+    "title": "Добавить ссылку на запись вебинара",
+    "state": "OPEN",
+    "labels": [],
+    "assignees": [],
+    "createdAt": "2026-05-12T12:10:00Z"
+  }
+]

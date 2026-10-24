@@ -1,0 +1,9 @@
+{
+  "day_total": 14,
+  "people": 9,
+  "prs": [7, 8, 10],
+  "bot": 2,
+  "issues": [12, 3, 1],
+  "max_turns": 12,
+  "max_budget_usd": 0.5
+}

@@ -1,0 +1,73 @@
+{
+  "sha256": {
+    "first-screen-draft.md": "9e9c4e53d15bb293bca26a74e175aeddf9734ed4f7dbeb7dbd5e48c5b3653c15",
+    "sources/product-sheet.md": "6b6c4a5a9b0022a54e1038b0bb8e161aaf61b6e217c9ba32b4a5fce9c635a077",
+    "sources/changelog.md": "4b193127b0c7d5efae2de16e969178f7f06fb66f6bf71e132dd0f765d27f0828",
+    "sources/agency-study.pdf": "724e0fee19482508e852d68caf62b5bcad12a5f58a9af0cc6fec3b6c2cc26670",
+    "sources/reportflow-blog.html": "9827c617f9d305df8279f4775ba6a14320879ba2855f556c507939fc7ee3d459"
+  },
+  "sha256_previous": {
+    "sources/product-sheet.md": [
+      "b75a3c0f4d9160b28526c78e603d6730ecf507a7630b85331fb956b49781c818"
+    ]
+  },
+  "claims": {
+    "1": {
+      "verdict": "подтверждено",
+      "source": "product-sheet.md"
+    },
+    "2": {
+      "verdict": "подтверждено",
+      "source": "changelog.md"
+    },
+    "3": {
+      "verdict": "устарело",
+      "source": "changelog.md"
+    },
+    "4": {
+      "verdict": "недостаточно данных",
+      "source": null
+    },
+    "5": {
+      "verdict": "искажено",
+      "source": "agency-study.pdf"
+    },
+    "6": {
+      "verdict": "искажено",
+      "source": "agency-study.pdf"
+    },
+    "7": {
+      "verdict": "недостаточно данных",
+      "source": null
+    },
+    "8": {
+      "verdict": "подтверждено",
+      "source": "product-sheet.md"
+    },
+    "9": {
+      "verdict": "подтверждено",
+      "source": "agency-study.pdf"
+    },
+    "10": {
+      "verdict": "подтверждено",
+      "source": "changelog.md"
+    }
+  },
+  "copy_banned": [
+    "\\b300\\b",
+    "8 из 10",
+    "6 час",
+    "главная причина",
+    "без ограничения по времени",
+    "бесплатн\\w* тариф"
+  ],
+  "copy_required": [
+    [
+      "10 минут",
+      "десять минут"
+    ],
+    [
+      "google drive"
+    ]
+  ]
+}

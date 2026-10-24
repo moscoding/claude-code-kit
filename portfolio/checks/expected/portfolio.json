@@ -1,0 +1,11 @@
+{
+  "max_image_kb": 500,
+  "allowed_raster": ["jpeg", "webp", "avif"],
+  "min_case_pages": 3,
+  "min_index_words": 40,
+  "min_case_words": 60,
+  "max_fixed_width_px": 375,
+  "placeholders_ci": ["your name", "lorem ipsum", "placeholder@", "ваше имя", "имя фамилия"],
+  "placeholders_cs": ["TODO", "FIXME"],
+  "check_script": "check_portfolio.py"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "C01LAUNCH",
+    "name": "launch",
+    "created": 1727740800,
+    "creator": "U01AAA",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+      "U01AAA",
+      "U01BBB",
+      "U01CCC",
+      "U01DDD"
+    ],
+    "topic": {
+      "value": "Запуск лендинга",
+      "creator": "U01AAA",
+      "last_set": 1727740800
+    },
+    "purpose": {
+      "value": "Решения и новости запуска",
+      "creator": "U01AAA",
+      "last_set": 1727740800
+    }
+  }
+]

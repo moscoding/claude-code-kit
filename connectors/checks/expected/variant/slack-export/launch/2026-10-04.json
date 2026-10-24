@@ -1,0 +1,17 @@
+[
+  {
+    "type": "message",
+    "user": "U01CCC",
+    "text": "Тексты рассылки отправляем после запуска",
+    "ts": "1791126000.000100",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01AAA"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

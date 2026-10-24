@@ -1,0 +1,51 @@
+[
+  {
+    "type": "message",
+    "user": "U01AAA",
+    "text": "Запуск лендинга — 14 октября, без переноса",
+    "ts": "1790667000.000100",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01BBB",
+          "U01CCC",
+          "U01DDD"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "bot_id": "B01DEPLOY",
+    "username": "deploy-bot",
+    "text": "Деплой launch-kit 1.4 прошёл",
+    "ts": "1790672400.000300",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01BBB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "user": "U01AAA",
+    "text": "Договор с подрядчиком подписываем в редакции, которую согласовала <@U01DDD>",
+    "ts": "1790689500.000100",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U01DDD"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

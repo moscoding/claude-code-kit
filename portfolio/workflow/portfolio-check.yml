@@ -1,0 +1,22 @@
+# Проверка сайта-портфолио на каждый pull request.
+# Скопируйте файл в репозиторий сайта: .github/workflows/portfolio-check.yml
+name: Portfolio checks
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: git clone --depth 1 https://github.com/moscoding/claude-code-kit ../claude-code-kit
+      - run: python ../claude-code-kit/portfolio/checks/check_portfolio.py

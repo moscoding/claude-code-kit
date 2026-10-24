@@ -1,0 +1,6 @@
+{
+  "min_slides": 6,
+  "max_image_kb": 500,
+  "placeholders_ci": ["your name", "lorem ipsum", "placeholder@", "ваше имя", "имя фамилия", "название компании"],
+  "placeholders_cs": ["TODO", "FIXME"]
+}

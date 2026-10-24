@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__wiki__search_pages",
+      "mcp__wiki__read_page",
+      "mcp__wiki__list_*",
+      "mcp__*"
+    ],
+    "deny": [
+      "mcp__wiki__delete_page",
+      "Edit(/inputs/**)"
+    ]
+  }
+}

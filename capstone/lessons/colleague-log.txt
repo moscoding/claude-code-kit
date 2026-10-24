@@ -1,0 +1,37 @@
+Кэпстоун коллеги: история ветки main репозитория followup-kit.
+Команда: git log main --reverse --name-status --format="%h %s"
+A — файл добавлен, M — изменён. У merge-коммита список файлов не выводится.
+
+a1f30c2 Каркас и учебные данные
+A	.claude/settings.json
+A	.gitignore
+A	CLAUDE.md
+A	brief.md
+A	inputs/notes-hard.md
+A	inputs/notes-repeat.md
+A	inputs/notes.md
+5d82e19 Критерии приёмки
+A	work/acceptance.md
+c47b0a8 Тест проверки
+A	tests/__init__.py
+A	tests/test_check_followup.py
+e90d613 Запрет правок tests/
+M	.claude/settings.json
+3b6f2d4 Скрипт проверки
+A	scripts/check_followup.py
+71ac5e9 Итоги встречи
+A	outputs/followup.md
+9c2e417 Уточнил заметки: баннеры
+M	inputs/notes-hard.md
+b08d3f1 Спорное место: баннеры
+A	outputs/followup-hard.md
+A	outputs/review.md
+4e7a9c6 Скил /followup
+A	.claude/skills/followup/SKILL.md
+d2c5b18 Хэндоф
+A	handoff.md
+M	outputs/review.md
+6f1e0ab Малый повтор
+A	outputs/repeat.md
+M	outputs/review.md
+8a3d5c1 Merge pull request #1 from anya/followup-v1

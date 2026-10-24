@@ -1,0 +1,43 @@
+{
+  "type": "result",
+  "subtype": "error_max_budget_usd",
+  "is_error": true,
+  "duration_ms": 71540,
+  "duration_api_ms": 66012,
+  "num_turns": 9,
+  "errors": [
+    "Reached maximum budget ($0.25)"
+  ],
+  "stop_reason": "tool_use",
+  "terminal_reason": "budget_exhausted",
+  "session_id": "00000000-0000-4000-8000-000000000003",
+  "total_cost_usd": 0.2611,
+  "usage": {
+    "input_tokens": 7930,
+    "output_tokens": 3104,
+    "cache_creation_input_tokens": 24810,
+    "cache_read_input_tokens": 171455
+  },
+  "modelUsage": {
+    "claude-sonnet-5-5": {
+      "inputTokens": 7930,
+      "outputTokens": 3104,
+      "cacheReadInputTokens": 171455,
+      "cacheCreationInputTokens": 24810,
+      "webSearchRequests": 0,
+      "costUSD": 0.2611,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 64000
+    }
+  },
+  "permission_denials": [
+    {
+      "tool_name": "Bash",
+      "tool_use_id": "toolu_000000000000000000000001",
+      "tool_input": {
+        "command": "git log --all --since=2026-05-14 --oneline"
+      }
+    }
+  ],
+  "uuid": "00000000-0000-4000-8000-000000000004"
+}
